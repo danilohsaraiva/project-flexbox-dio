@@ -293,8 +293,7 @@ footer .footer{
     }
 
     .apresentacao{
-        flex-direction: row;
-        flex-direction: nowrap;
+        flex-direction: row; /*corrigindo erro*/
         margin-top: 50px;
         max-width: 80%;
     }
